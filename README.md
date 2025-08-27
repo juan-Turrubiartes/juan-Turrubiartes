@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Juan Turrubiartes</h1>
-<h3 align="center">A passionate software engineer learner from Texas</h3>
 
 - 🌱 I’m currently learning **Java**
 
